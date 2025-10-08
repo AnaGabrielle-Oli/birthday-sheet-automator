@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "COLOQUE_SEU_PROJECT_ID_AQUI",
+  "private_key_id": "COLOQUE_SEU_PRIVATE_KEY_ID_AQUI",
+  "private_key": "COLOQUE_SUA_PRIVATE_KEY_AQUI",
+  "client_email": "COLOQUE_SEU_CLIENT_EMAIL_AQUI",
+  "client_id": "COLOQUE_SEU_CLIENT_ID_AQUI",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "COLOQUE_A_URL_DO_SEU_CERTIFICADO_AQUI",
+  "universe_domain": "googleapis.com"
+}
