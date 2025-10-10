@@ -2,7 +2,7 @@
 
 Birthday é um script em Python que automatiza a verificação de aniversariantes do dia. Ele se conecta a uma planilha do Google Sheets, lê uma lista de nomes e datas de aniversário, e identifica quais pessoas estão fazendo aniversário na data atual.
 
-##Funcionalidades
+## Funcionalidades
 Conexão Segura: Utiliza a API do Google Sheets com autenticação via service_account para acessar os dados de forma segura.
 
  - Verificação Automática: Compara o dia e o mês atuais com a lista de aniversários na planilha.
@@ -11,7 +11,7 @@ Conexão Segura: Utiliza a API do Google Sheets com autenticação via service_a
 
  - Saída Clara: Exibe no console os nomes dos aniversariantes.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
  - Python
 
  - Pandas: Para manipulação e análise de dados.
